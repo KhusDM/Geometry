@@ -1,0 +1,17 @@
+C:\Users\Dmitry\source\repos\GeometryLibrary\GeometryTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\Dmitry\source\repos\GeometryLibrary\GeometryTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\Dmitry\source\repos\GeometryLibrary\GeometryTest\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\Dmitry\source\repos\GeometryLibrary\GeometryTest\bin\Debug\netcoreapp2.2\GeometryTest.deps.json
+C:\Users\Dmitry\source\repos\GeometryLibrary\GeometryTest\bin\Debug\netcoreapp2.2\GeometryTest.runtimeconfig.json
+C:\Users\Dmitry\source\repos\GeometryLibrary\GeometryTest\bin\Debug\netcoreapp2.2\GeometryTest.runtimeconfig.dev.json
+C:\Users\Dmitry\source\repos\GeometryLibrary\GeometryTest\bin\Debug\netcoreapp2.2\GeometryTest.dll
+C:\Users\Dmitry\source\repos\GeometryLibrary\GeometryTest\bin\Debug\netcoreapp2.2\GeometryTest.pdb
+C:\Users\Dmitry\source\repos\GeometryLibrary\GeometryTest\bin\Debug\netcoreapp2.2\Geometry.dll
+C:\Users\Dmitry\source\repos\GeometryLibrary\GeometryTest\bin\Debug\netcoreapp2.2\Geometry.pdb
+C:\Users\Dmitry\source\repos\GeometryLibrary\GeometryTest\obj\Debug\netcoreapp2.2\GeometryTest.csprojAssemblyReference.cache
+C:\Users\Dmitry\source\repos\GeometryLibrary\GeometryTest\obj\Debug\netcoreapp2.2\GeometryTest.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\GeometryLibrary\GeometryTest\obj\Debug\netcoreapp2.2\GeometryTest.AssemblyInfoInputs.cache
+C:\Users\Dmitry\source\repos\GeometryLibrary\GeometryTest\obj\Debug\netcoreapp2.2\GeometryTest.AssemblyInfo.cs
+C:\Users\Dmitry\source\repos\GeometryLibrary\GeometryTest\obj\Debug\netcoreapp2.2\GeometryTest.csproj.CopyComplete
+C:\Users\Dmitry\source\repos\GeometryLibrary\GeometryTest\obj\Debug\netcoreapp2.2\GeometryTest.dll
+C:\Users\Dmitry\source\repos\GeometryLibrary\GeometryTest\obj\Debug\netcoreapp2.2\GeometryTest.pdb
